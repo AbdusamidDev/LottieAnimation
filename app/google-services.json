@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "375321653973",
+    "firebase_url": "https://firebathrealtime-27b05-default-rtdb.firebaseio.com",
+    "project_id": "firebathrealtime-27b05",
+    "storage_bucket": "firebathrealtime-27b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375321653973:android:1eeb9509e50067cfc4e85c",
+        "android_client_info": {
+          "package_name": "develop.abdusamid.musobaqaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375321653973-lqth5p86f0irvj4fnuvqldfotns0r93n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApnLsEQKPSgsXVyJDXFNjg1mCTCeMUtss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375321653973-lqth5p86f0irvj4fnuvqldfotns0r93n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
